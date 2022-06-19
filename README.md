@@ -1,1 +1,3 @@
-# LP3_ourAwareness
+```
+$ oSFw observe-memetics ourStory-bMO
+```
